@@ -11,19 +11,19 @@ function Courses() {
             <div className='flex gap-20 pt-10'>
                 <div className='flex flex-col justify-center items-center gap-4'>
                 <img src={guitarimg} alt='Guitar image' height='150px' width='150px'/> 
-                    <p className='text-2xl'><b>Guitar</b></p>
+                    <p className='text-2xl tracking-wider'><b>Guitar</b></p>
                 </div>
                 <div  className='flex flex-col justify-center items-center gap-4'>
                 <img src={pianoimg} alt='Piano image' height='150px' width='150px'/>
-                    <p className='text-2xl'><b>Piano</b></p>
+                    <p className='text-2xl tracking-wider'><b>Piano</b></p>
                 </div>
                 <div  className='flex flex-col justify-center items-center gap-4'>
                 <img src={fluteimg} alt='Flute image' height='150px' width='150px'/>
-                    <p className='text-2xl'><b>Flute</b></p>
+                    <p className='text-2xl tracking-wider'><b>Flute</b></p>
                 </div>
                 <div  className='flex flex-col justify-center items-center gap-4'>
                 <img src={drumsimg} alt='Drums image' height='150px' width='150px'/>
-                    <p className='text-2xl'><b>Drums</b></p>
+                    <p className='text-2xl tracking-wider'><b>Drums</b></p>
                 </div>
             </div>
         </div>
